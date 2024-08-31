@@ -86,7 +86,4 @@ Run the C program->
 	a) ./fast <filename>
 
 Note:
-This progra, returns the XOR value of the file(where 4 bytes(characters from file) are taken together as an integer). It also prints the time taken to accomplish the read operation and also the file size that was read.
-
-Ensure that the file_size is a multiple of 4.
-Run it multiple times to get best cached performance.
+This program, returns the XOR value of the file(where 4 bytes(characters from file) are taken together as an integer). It also prints the time taken to accomplish the read operation and also the file size that was read.
